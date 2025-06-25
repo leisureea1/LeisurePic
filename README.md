@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/v/release/leisureea/Leisurepic?color=%2337c6ff)](https://github.com/leisureea/Leisurepic/releases)
 [![Stars](https://img.shields.io/github/stars/leisureea/Leisurepic?style=social)](https://github.com/leisureea/Leisurepic/stargazers)
 [![License](https://img.shields.io/github/license/leisureea/Leisurepic)](LICENSE)
-[![Visits](https://badgen.net/badge/访问量/不统计/gray)]()
+[![Hits](https://hits.sh/github.com/leisureea/leisurepic.svg?style=flat-square)](https://hits.sh/github.com/leisureea/leisurepic/)
 
 > 🖼️ 一个轻量、纯 PHP、带在线管理面板的图床系统，支持多种上传方式、图像处理、权限控制和在线更新，适合自用或团队部署。
 
