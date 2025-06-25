@@ -1,9 +1,9 @@
 # 🎨 LeisurePic 图床系统
 
-[![Release](https://img.shields.io/github/v/release/leisureea/Leisurepic?color=%2337c6ff)](https://github.com/leisureea/Leisurepic/releases)
-[![Stars](https://img.shields.io/github/stars/leisureea/Leisurepic?style=social)](https://github.com/leisureea/Leisurepic/stargazers)
-[![License](https://img.shields.io/github/license/leisureea/Leisurepic)](LICENSE)
-[![Hits](https://hits.sh/github.com/leisureea/leisurepic.svg?style=flat-square)](https://hits.sh/github.com/leisureea/leisurepic/)
+[![Release](https://img.shields.io/github/v/release/leisureea1/Leisurepic?color=%2337c6ff)](https://github.com/leisureea1/Leisurepic/releases)
+[![Stars](https://img.shields.io/github/stars/leisureea1/Leisurepic?style=social)](https://github.com/leisureea1/Leisurepic/stargazers)
+[![License](https://img.shields.io/github/license/leisureea1/Leisurepic)](LICENSE)
+[![Hits](https://hits.sh/github.com/leisureea1/leisurepic.svg?style=flat-square)](https://hits.sh/github.com/leisureea1/leisurepic/)
 
 > 🖼️ 一个轻量、纯 PHP、带在线管理面板的图床系统，支持多种上传方式、图像处理、权限控制和在线更新，适合自用或团队部署。
 
