@@ -47,7 +47,7 @@
 
 建议前往文档查看完整部署方式（含 宝塔 / 手动配置等）：
 
-📘 [点击查看完整文档](https://leisureea.github.io/leisurepic/) 暂时没写。。。通过宝塔部署即可所有目录755 权限
+📘 [点击查看完整文档](https://leisureea.github.io/leisurepic/) 
 
 ---
 
